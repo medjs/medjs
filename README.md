@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Med
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Email copywriting
+- 💞️ I’m looking to collaborate on web development projects and email marketing campaigns
+- 📫 How to reach me: [mednajjar86@gmail.com]
